@@ -1,4 +1,4 @@
-# simple-admin-dash
+# simple-responsive-admin-dashboard
 
 
 ![Analytics](https://github.com/didinkaj/simple-admin-dash/blob/main/images/dashboard.png "Dashboard")

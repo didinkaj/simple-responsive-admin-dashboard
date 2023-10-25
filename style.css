@@ -118,8 +118,9 @@ b{
     margin: 0 auto;
     gap: 1.8rem;
     grid-template-columns: 14rem auto 24rem;
-    grid-auto-flow: column;
-    
+    width: 99vw;
+    justify-content: center;
+    align-content: center;
 
 }
 
@@ -543,8 +544,10 @@ main .recent-orders a{
 
 @media  screen and (max-width: 1200px) {
     .container{
-        width: 95%;
+        width: 99vw;
         grid-template-columns: 7rem auto 23rem;
+        justify-content: center;
+        align-content: center;
     }
     
     aside .logo h2 {
@@ -600,6 +603,7 @@ main .recent-orders a{
         width: 100%;
         grid-template-columns: 1fr;
         padding: 0 var(--padding-1);
+    
     }
 
     aside{

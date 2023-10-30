@@ -603,6 +603,7 @@ main .recent-orders a{
         padding: 0 var(--padding-1);
         justify-content: start;
         align-content: start;
+        width: 98%;
     
     }
 
